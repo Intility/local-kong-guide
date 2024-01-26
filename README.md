@@ -27,7 +27,7 @@ This repository provides scripts, manifests, and guides to quickly get Kong and 
     - [Adding other plugins](#adding-other-plugins)
     - [Kong Manager (Open-Source version)](#kong-manager-open-source-version)
   - [Sidenote: TCP/UDP-Ingresses](#sidenote-tcpudp-ingresses)
-  - [Cleanup](#cleanup)
+  - [Cleanup your local environment](#cleanup-your-local-environment)
 - [References:](#references)
 
 
