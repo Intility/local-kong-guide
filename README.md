@@ -37,7 +37,13 @@ This repository provides scripts, manifests, and guides to quickly get Kong and 
 
 ## Install requirements
 
-Start by installing the [Requirements](#requirements). 
+Start by installing the [Requirements](#requirements) and clone this repository.
+
+Move into the folder
+
+```sh
+cd local-kong-guide
+```
 
 ## Create kind cluster 
 
