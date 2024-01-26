@@ -19,7 +19,6 @@ This repository provides scripts, manifests, and guides to quickly get Kong and 
   - [Create kind cluster](#create-kind-cluster)
   - [Install kong](#install-kong)
   - [Deploy example-service](#deploy-example-service)
-  - [Cleanup](#cleanup)
 - [Guide](#guide)
   - [The Ingress resource](#the-ingress-resource)
   - [Plugins](#plugins)
@@ -28,6 +27,7 @@ This repository provides scripts, manifests, and guides to quickly get Kong and 
     - [Adding other plugins](#adding-other-plugins)
     - [Kong Manager (Open-Source version)](#kong-manager-open-source-version)
   - [Sidenote: TCP/UDP-Ingresses](#sidenote-tcpudp-ingresses)
+  - [Cleanup](#cleanup)
 - [References:](#references)
 
 
